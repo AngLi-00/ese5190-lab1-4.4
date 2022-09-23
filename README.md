@@ -1,10 +1,5 @@
 # ese519-lab1-4.4
 
-# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
-
-"""CircuitPython Essentials HID Keyboard example"""
 import board
 from adafruit_apds9960.apds9960 import APDS9960
 import time
