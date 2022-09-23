@@ -1,6 +1,6 @@
 # ese519-lab1-4.4
 
-import board
+    import board
 from adafruit_apds9960.apds9960 import APDS9960
 import time
 import analogio
